@@ -1,0 +1,3 @@
+activate tensorflow
+cd Encoder
+jupyter notebook
